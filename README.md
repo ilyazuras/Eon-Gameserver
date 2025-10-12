@@ -4,3 +4,6 @@
 ## what it has in it
 - Playerai
 - Bosses
+- Lategame
+- Creative
+- Tournaments 
